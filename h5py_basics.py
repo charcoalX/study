@@ -4,7 +4,7 @@ h5py 基础
 目的：掌握 HDF5 文件的读写，理解层级结构。
 这是 所有数据存储的基础格式。
 
-运行方式：python 01_h5py_basics.py
+运行方式：python h5py_basics.py
 """
 
 import h5py
