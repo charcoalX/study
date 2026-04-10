@@ -5,7 +5,7 @@ h5py 三项对比实验
 2: compression="lzf" vs compression="gzip" — 文件大小与速度
 3: 在 create_streaming_hdf5 中加入 exposure_time dataset
 
-运行方式: python h5py_exercises.py
+运行方式: python h5py_e.py
 """
 
 import h5py
